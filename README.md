@@ -17,4 +17,7 @@ pipenv install huggingface_hub
 pipenv install streamlit
 
 
+create .env then add HF_TOKEN from HuggingFace website
+
+
 
